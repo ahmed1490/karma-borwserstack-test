@@ -17,7 +17,7 @@ Sample Jasmin test running on Browserstack using Karma
 ### Run Test
 
 - Start the karma server
-`karma run`
+`karma start`
 
 - Run your tests
 `karma run`
