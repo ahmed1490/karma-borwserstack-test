@@ -3,9 +3,14 @@ karma-borwserstack-test
 
 Sample Jasmin test running on Browserstack using Karma
 
-### Install karma-browserstack-launcher
+- Install karma:
 
-`npm install karma-browserstack-launcher`
+  `npm install karma`
+
+
+- Install karma-browserstack-launcher:
+
+  `npm install karma-browserstack-launcher`
 
 
 ### karma.conf.js
